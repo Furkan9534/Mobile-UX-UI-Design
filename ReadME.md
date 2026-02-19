@@ -3,9 +3,7 @@
 ## Login Girişi
 
 ![alt text](image.png)
-
-
-
+ 
 ## Ana Ekran
 
 ![alt text](image-1.png)
@@ -24,6 +22,8 @@
 
  ## Raporlama Ekranı Tablet
  ![alt text](image-12.png)
+
+ ![alt text](image-13.png)
 
  ## AVR Gözlük ile Teknisyen 
  ![alt text](image-6.png)
