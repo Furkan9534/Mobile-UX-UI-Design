@@ -25,6 +25,8 @@
 
  ![alt text](image-13.png)
 
+ ![alt text](image-14.png)
+
  ## AVR Gözlük ile Teknisyen 
  ![alt text](image-6.png)
 
