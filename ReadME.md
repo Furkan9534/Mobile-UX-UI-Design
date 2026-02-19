@@ -10,7 +10,7 @@
 
 ![alt text](image-1.png)
 
-## BİLEŞEN KONTROL EKRANI
+## Bileşen Kontrol Ekranı
 
 ![alt text](image-2.png)
 
