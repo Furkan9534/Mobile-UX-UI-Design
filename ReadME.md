@@ -22,6 +22,9 @@
 
  ![alt text](image-5.png)
 
+ ## Raporlama Ekranı Tablet
+ ![alt text](image-11.png)
+
  ## AVR Gözlük ile Teknisyen 
  ![alt text](image-6.png)
 
@@ -33,5 +36,7 @@
 
  ## Servis Modülü Tablet Görünümü 
  ![alt text](image-10.png)
+
+ 
 
 ---
