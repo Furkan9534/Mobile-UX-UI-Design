@@ -14,4 +14,8 @@
 
 ![alt text](image-2.png)
 
+
+## Bileşen Montaj Doğrulama Ekranı
+![alt text](image-3.png)
+
 ---
