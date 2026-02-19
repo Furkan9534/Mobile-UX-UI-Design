@@ -31,4 +31,7 @@
 
  ![alt text](image-9.png)
 
+ ## Servis Modülü Tablet Görünümü 
+ ![alt text](image-10.png)
+
 ---
