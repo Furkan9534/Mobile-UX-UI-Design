@@ -25,4 +25,8 @@
  ## AVR Gözlük ile Teknisyen 
  ![alt text](image-6.png)
 
+ ## Servis Modülü
+
+ ![alt text](image-7.png)
+
 ---
