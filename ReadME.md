@@ -2,7 +2,7 @@
 ---
 ## Login Girişi
 
-![alt text](image.png)
+![alt text](/Mock-Up-Design/image.png)
  
 ## Ana Ekran
 
