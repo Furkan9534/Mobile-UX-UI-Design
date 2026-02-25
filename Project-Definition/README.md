@@ -237,5 +237,11 @@ Bu yapı sayesinde;
 -operatör deneyimi tüm platformlarda tutarlı hale getirilir.
 
 ### Kullanılacak Temel İstemci Teknolojileri
+Mobil, tablet ve AR (AVR) tarafında aşağıdaki teknolojiler kullanılacaktır:
+-Flutter (mobil ve tablet uygulamaları)
+-REST tabanlı servis haberleşmesi
+-Gerçek zamanlı bildirim ve durum güncellemeleri
+-AR gözlük tarafında cihaz üreticisinin sunduğu AR SDK altyapısı
+-Görüntü bindirme ve sahne üzerinde nesne vurgulama için AR görselleştirme katmanı
 
 UX/UI
