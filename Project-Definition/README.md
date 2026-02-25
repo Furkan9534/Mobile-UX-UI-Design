@@ -185,5 +185,9 @@ Bu nedenle sürecin PoC temelli ve kontrollü şekilde ilerlemesi önerilmektedi
 ### Mobil, Tablet ve AR (AVR) Gözlük Tabanlı Operatör Arayüzü
 Bu proje kapsamında, montaj hattında çalışan operatörlerin doğrudan kullanacağı;
 
+| Cihazlar  |  
+| ------------- |  
+| Content Cell  |  
+| Content Cell  |  
 
 UX/UI
