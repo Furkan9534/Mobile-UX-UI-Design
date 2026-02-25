@@ -215,5 +215,7 @@ Mobil ve tablet uygulamaları Flutter teknolojisi ile geliştirilecektir.
 
 ### AR (AVR) Gözlük Destekli Operatör Yönlendirme
 
+AR (AVR) gözlükler üzerinden operatöre aşağıdaki yeteneklerin sunulması hedeflenmektedir:
+
 
 UX/UI
