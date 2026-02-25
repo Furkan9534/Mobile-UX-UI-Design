@@ -233,5 +233,7 @@ Mobil, tablet ve AR gözlük istemcileri için ortak bir uygulama mimarisi kulla
 
 Bu yapı sayesinde;
 -farklı cihaz türleri için ayrı sistemler geliştirilmesine gerek kalmaz,
--
+-bakım ve güncelleme süreçleri merkezi olarak yönetilir,
+-operatör deneyimi tüm platformlarda tutarlı hale getirilir.
+
 UX/UI
