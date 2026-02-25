@@ -183,75 +183,27 @@ bağımlı, yüksek mühendislik içeren bir yapay zeka uygulamasıdır.
 Bu nedenle sürecin PoC temelli ve kontrollü şekilde ilerlemesi önerilmektedir.
 
 ### Mobil, Tablet ve AR (AVR) Gözlük Tabanlı Operatör Arayüzü
-Bu proje kapsamında, montaj hattında çalışan operatörlerin doğrudan kullanacağı;
 
-| Cihazlar  |  
-| ------------- |  
-| endüstriyel tabletler  |  
-| Gözlük Teknolojisine Entegre Etme  |  
+(Görüntü analizi merkezi yapay zekâ servisinde yapılır)
 
-üzerinden çalışan çoklu istemci mimarisi tasarlanacaktır. Tüm istemci uygulamaları, merkezi yapay zeka servisleri ile API tabanlı haberleşme üzerinden çalışacaktır.
+Bu projede mobil uygulama, tablet uygulaması ve AR (AVR) gözlük uygulaması aynı görüntü analiz altyapısını kullanan birleşik istemci mimarisi olarak tasarlanacaktır.
 
-### Mobil ve Tablet Uygulamaları
-Mobil ve tablet tarafında tek bir kod tabanı üzerinden geliştirilen uygulama ile aşağıdaki fonksiyonlar sağlanacaktır:
+Araç montajının doğru yapılıp yapılmadığının görüntü analizi, istemci cihazlar üzerinde değil, merkezi yapay zekâ servisleri üzerinde gerçekleştirilecektir.
 
--ilgili montaj istasyonunun görüntülenmesi,
+Mobil, tablet ve AR gözlük uygulamaları; kamera görüntüsünü almak, analizi başlatmak ve analiz sonucunu operatöre göstermek amacıyla kullanılacaktır.
 
--yapay zeka analiz sonuçlarının anlık olarak gösterilmesi,
+### Mobil ve Tablet Uygulaması – Kullanılacak Teknolojiler
 
--yanlış kablolama, eksik bağlantı ve yanlış parça durumlarının operatöre bildirilmesi,
+Flutter
 
--tespit edilen hatanın görüntü üzerinde işaretlenmesi,
+Dart
 
--operatör onayı ve hata kaydı oluşturulması.
+Android SDK
 
-Uygulama;
--Android tabanlı endüstriyel tabletler
--Android ve iOS mobil cihazlar
+iOS SDK
 
-üzerinde çalışacak şekilde geliştirilecektir.
+HTTP / REST Client
 
-Mobil ve tablet uygulamaları Flutter teknolojisi ile geliştirilecektir.
-
-### AR (AVR) Gözlük Destekli Operatör Yönlendirme
-
-AR (AVR) gözlükler üzerinden operatöre aşağıdaki yeteneklerin sunulması hedeflenmektedir:
--montaj yapılması gereken kablo ve bağlantı noktasının operatörün görüş alanında vurgulanması,
--doğru veya yanlış montaj bilgisinin görsel olarak gösterilmesi,
--tespit edilen hatanın gerçek görüntü üzerine bindirilmesi,
--montaj adımlarının adım adım görsel yönlendirme olarak sunulması.
-
-AR gözlük uygulaması, merkezi yapay zeka servislerinden aldığı analiz sonuçlarını kullanarak yalnızca görselleştirme ve operatör etkileşimi katmanı olarak çalışacaktır.
-
-### Mobil – Tablet – AR Gözlük Ortak Uygulama Mimarisi
-
-Mobil, tablet ve AR gözlük istemcileri için ortak bir uygulama mimarisi kullanılacaktır. Bu mimari kapsamında:
--tüm cihazlar aynı servis uçlarını kullanır,
--aynı istasyon ve ürün için aynı analiz sonuçları görüntülenir,
--rol bazlı kullanıcı yetkilendirmesi uygulanır,
--cihaz türüne göre arayüz uyarlaması yapılır.
-
-Bu yapı sayesinde;
--farklı cihaz türleri için ayrı sistemler geliştirilmesine gerek kalmaz,
--bakım ve güncelleme süreçleri merkezi olarak yönetilir,
--operatör deneyimi tüm platformlarda tutarlı hale getirilir.
-
-### Kullanılacak Temel İstemci Teknolojileri
-Mobil, tablet ve AR (AVR) tarafında aşağıdaki teknolojiler kullanılacaktır:
--Flutter (mobil ve tablet uygulamaları)
--REST tabanlı servis haberleşmesi
--Gerçek zamanlı bildirim ve durum güncellemeleri
--AR gözlük tarafında cihaz üreticisinin sunduğu AR SDK altyapısı
--Görüntü bindirme ve sahne üzerinde nesne vurgulama için AR görselleştirme katmanı
-
-### Mobil, Tablet ve AR (AVR) Gözlük Uygulamaları – Kullanılacak Teknolojiler
-
- 
-| First Header  |  Second Header |
-| ------------- | ------------- |
-| Flutter (tek kod tabanı – mobil ve tablet)  | Dart  |
-| Android SDK  | iOS SDK  |
-| HTTP / REST Client (API haberleşmesi)  | WebSocket (anlık analiz ve durum güncellemeleri)  |
-| Firebase Cloud Messaging (FCM) – anlık bildirimler  | Material Design / Cupertino UI bileşenleri  |
+WebSocket client (anlık analiz sonucu ve durum güncellemeleri için)
 
 UX/UI
