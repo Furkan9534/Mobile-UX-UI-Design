@@ -223,6 +223,32 @@ ARCore
 
 ARKit
 
+### AR Gözlük Uygulama Katmanı (İstemci tarafı)
+AR gözlük uygulaması aşağıdaki fonksiyonları yerine getirecektir:
+
+kamera görüntüsü üzerinde analiz sonucunun bindirilmesi (overlay)
+
+yanlış montaj veya eksik bağlantı bölgesinin görsel olarak işaretlenmesi
+
+doğru / yanlış montaj bilgisinin gösterilmesi
+
+operatör onay ve geri bildirim ekranları
+
+Bu katmanda yalnızca görselleştirme ve kullanıcı etkileşimi yapılacaktır.
+
+### Mobil – Tablet – AR Gözlük Ortak Haberleşme ve Güvenlik Teknolojileri
+
+Tüm istemci uygulamaları için ortak olarak:
+
+RESTful API
+
+JSON veri formatı
+
+WebSocket (gerçek zamanlı analiz sonucu iletimi)
+
+JWT tabanlı kimlik doğrulama
+
+kullanılacaktır.
 
 
 
