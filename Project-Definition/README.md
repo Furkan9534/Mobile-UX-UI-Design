@@ -226,6 +226,6 @@ AR gözlük uygulaması, merkezi yapay zeka servislerinden aldığı analiz sonu
 ### Mobil – Tablet – AR Gözlük Ortak Uygulama Mimarisi
 
 Mobil, tablet ve AR gözlük istemcileri için ortak bir uygulama mimarisi kullanılacaktır. Bu mimari kapsamında:
-
+-tüm cihazlar aynı servis uçlarını kullanır,
 
 UX/UI
