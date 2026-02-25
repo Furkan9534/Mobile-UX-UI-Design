@@ -223,4 +223,8 @@ AR (AVR) gözlükler üzerinden operatöre aşağıdaki yeteneklerin sunulması 
 
 AR gözlük uygulaması, merkezi yapay zeka servislerinden aldığı analiz sonuçlarını kullanarak yalnızca görselleştirme ve operatör etkileşimi katmanı olarak çalışacaktır.
 
+### Mobil – Tablet – AR Gözlük Ortak Uygulama Mimarisi
+
+
+
 UX/UI
