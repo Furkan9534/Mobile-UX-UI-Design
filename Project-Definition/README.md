@@ -206,7 +206,8 @@ Mobil ve tablet tarafında tek bir kod tabanı üzerinden geliştirilen uygulama
 -operatör onayı ve hata kaydı oluşturulması.
 
 Uygulama;
-
+-Android tabanlı endüstriyel tabletler
+-Android ve iOS mobil cihazlar
 
 
 UX/UI
