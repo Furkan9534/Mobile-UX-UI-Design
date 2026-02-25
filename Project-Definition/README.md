@@ -236,4 +236,6 @@ Bu yapı sayesinde;
 -bakım ve güncelleme süreçleri merkezi olarak yönetilir,
 -operatör deneyimi tüm platformlarda tutarlı hale getirilir.
 
+### Kullanılacak Temel İstemci Teknolojileri
+
 UX/UI
