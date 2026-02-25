@@ -232,5 +232,6 @@ Mobil, tablet ve AR gözlük istemcileri için ortak bir uygulama mimarisi kulla
 -cihaz türüne göre arayüz uyarlaması yapılır.
 
 Bu yapı sayesinde;
-
+-farklı cihaz türleri için ayrı sistemler geliştirilmesine gerek kalmaz,
+-
 UX/UI
