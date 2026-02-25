@@ -246,10 +246,8 @@ Mobil, tablet ve AR (AVR) tarafında aşağıdaki teknolojiler kullanılacaktır
 
 ### Mobil, Tablet ve AR (AVR) Gözlük Uygulamaları – Kullanılacak Teknolojiler
 
- Mobil ve Tablet Uygulamaları
-
-
-| ------------- | ------------- |
+ 
+ 
 | Flutter  | Content Cell  |
 | Content Cell  | Content Cell  |
 
