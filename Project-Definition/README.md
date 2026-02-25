@@ -192,4 +192,7 @@ Bu proje kapsamında, montaj hattında çalışan operatörlerin doğrudan kulla
 
 üzerinden çalışan çoklu istemci mimarisi tasarlanacaktır. Tüm istemci uygulamaları, merkezi yapay zeka servisleri ile API tabanlı haberleşme üzerinden çalışacaktır.
 
+### Mobil ve Tablet Uygulamaları
+
+
 UX/UI
