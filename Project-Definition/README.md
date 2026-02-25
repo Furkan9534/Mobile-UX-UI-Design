@@ -231,4 +231,6 @@ Mobil, tablet ve AR gözlük istemcileri için ortak bir uygulama mimarisi kulla
 -rol bazlı kullanıcı yetkilendirmesi uygulanır,
 -cihaz türüne göre arayüz uyarlaması yapılır.
 
+Bu yapı sayesinde;
+
 UX/UI
