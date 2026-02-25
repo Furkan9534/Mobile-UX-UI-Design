@@ -229,5 +229,6 @@ Mobil, tablet ve AR gözlük istemcileri için ortak bir uygulama mimarisi kulla
 -tüm cihazlar aynı servis uçlarını kullanır,
 -aynı istasyon ve ürün için aynı analiz sonuçları görüntülenir,
 -rol bazlı kullanıcı yetkilendirmesi uygulanır,
--
+-cihaz türüne göre arayüz uyarlaması yapılır.
+
 UX/UI
