@@ -211,5 +211,7 @@ Uygulama;
 
 üzerinde çalışacak şekilde geliştirilecektir.
 
+Mobil ve tablet uygulamaları Flutter teknolojisi ile geliştirilecektir.
+
 
 UX/UI
