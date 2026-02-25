@@ -244,4 +244,7 @@ Mobil, tablet ve AR (AVR) tarafında aşağıdaki teknolojiler kullanılacaktır
 -AR gözlük tarafında cihaz üreticisinin sunduğu AR SDK altyapısı
 -Görüntü bindirme ve sahne üzerinde nesne vurgulama için AR görselleştirme katmanı
 
+### Mobil, Tablet ve AR (AVR) Gözlük Uygulamaları – Kullanılacak Teknolojiler
+
+
 UX/UI
