@@ -209,5 +209,7 @@ Uygulama;
 -Android tabanlı endüstriyel tabletler
 -Android ve iOS mobil cihazlar
 
+üzerinde çalışacak şekilde geliştirilecektir.
+
 
 UX/UI
