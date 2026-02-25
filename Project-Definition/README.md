@@ -1,5 +1,8 @@
 # YAPAY ZEKA DESTEKLİ MONTAJ & KABLOLAMA HATA TESPİT SİSTEMİ
 ## Teknik ve Ticari Teklif
+
+![alt text](image.png)
+
 ### Proje 
 Montaj hattında kablo ve parça montaj hatalarının görüntü işleme ve yapay zeka ile tespiti
 ### Hedef
@@ -262,4 +265,3 @@ AR gözlük uygulaması
 
 eş zamanlı olarak aynı analiz sonucunu görüntüleyebilir ve montaj doğrulaması yapılabilir.
 
-![alt text](image.png)
