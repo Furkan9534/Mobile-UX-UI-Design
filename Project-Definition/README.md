@@ -221,5 +221,6 @@ AR (AVR) gözlükler üzerinden operatöre aşağıdaki yeteneklerin sunulması 
 -tespit edilen hatanın gerçek görüntü üzerine bindirilmesi,
 -montaj adımlarının adım adım görsel yönlendirme olarak sunulması.
 
+AR gözlük uygulaması, merkezi yapay zeka servislerinden aldığı analiz sonuçlarını kullanarak yalnızca görselleştirme ve operatör etkileşimi katmanı olarak çalışacaktır.
 
 UX/UI
