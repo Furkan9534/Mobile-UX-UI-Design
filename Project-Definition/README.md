@@ -195,4 +195,15 @@ Bu proje kapsamında, montaj hattında çalışan operatörlerin doğrudan kulla
 ### Mobil ve Tablet Uygulamaları
 Mobil ve tablet tarafında tek bir kod tabanı üzerinden geliştirilen uygulama ile aşağıdaki fonksiyonlar sağlanacaktır:
 
+-ilgili montaj istasyonunun görüntülenmesi,
+
+-yapay zeka analiz sonuçlarının anlık olarak gösterilmesi,
+
+-yanlış kablolama, eksik bağlantı ve yanlış parça durumlarının operatöre bildirilmesi,
+
+-tespit edilen hatanın görüntü üzerinde işaretlenmesi,
+
+-operatör onayı ve hata kaydı oluşturulması.
+
+
 UX/UI
