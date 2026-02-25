@@ -218,5 +218,6 @@ Mobil ve tablet uygulamaları Flutter teknolojisi ile geliştirilecektir.
 AR (AVR) gözlükler üzerinden operatöre aşağıdaki yeteneklerin sunulması hedeflenmektedir:
 -montaj yapılması gereken kablo ve bağlantı noktasının operatörün görüş alanında vurgulanması,
 -doğru veya yanlış montaj bilgisinin görsel olarak gösterilmesi,
+-tespit edilen hatanın gerçek görüntü üzerine bindirilmesi,
 -
 UX/UI
