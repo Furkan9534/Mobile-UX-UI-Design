@@ -190,4 +190,6 @@ Bu proje kapsamında, montaj hattında çalışan operatörlerin doğrudan kulla
 | endüstriyel tabletler  |  
 | Gözlük Teknolojisine Entegre Etme  |  
 
+üzerinden çalışan çoklu istemci mimarisi tasarlanacaktır.
+
 UX/UI
