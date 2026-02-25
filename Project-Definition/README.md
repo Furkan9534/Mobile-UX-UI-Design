@@ -249,7 +249,9 @@ Mobil, tablet ve AR (AVR) tarafında aşağıdaki teknolojiler kullanılacaktır
  
 | First Header  |  Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Flutter (tek kod tabanı – mobil ve tablet)  | Dart  |
+| Android SDK  | iOS SDK  |
+| HTTP / REST Client (API haberleşmesi)  | WebSocket (anlık analiz ve durum güncellemeleri)  |
+| Firebase Cloud Messaging (FCM) – anlık bildirimler  | Material Design / Cupertino UI bileşenleri  |
 
 UX/UI
