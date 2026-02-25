@@ -213,5 +213,7 @@ Uygulama;
 
 Mobil ve tablet uygulamaları Flutter teknolojisi ile geliştirilecektir.
 
+### AR (AVR) Gözlük Destekli Operatör Yönlendirme
+
 
 UX/UI
