@@ -188,6 +188,6 @@ Bu proje kapsamında, montaj hattında çalışan operatörlerin doğrudan kulla
 | Cihazlar  |  
 | ------------- |  
 | endüstriyel tabletler  |  
-| Content Cell  |  
+| Gözlük Teknolojisine Entegre Etme  |  
 
 UX/UI
