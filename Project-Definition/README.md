@@ -190,6 +190,6 @@ Bu proje kapsamında, montaj hattında çalışan operatörlerin doğrudan kulla
 | endüstriyel tabletler  |  
 | Gözlük Teknolojisine Entegre Etme  |  
 
-üzerinden çalışan çoklu istemci mimarisi tasarlanacaktır.
+üzerinden çalışan çoklu istemci mimarisi tasarlanacaktır. Tüm istemci uygulamaları, merkezi yapay zeka servisleri ile API tabanlı haberleşme üzerinden çalışacaktır.
 
 UX/UI
