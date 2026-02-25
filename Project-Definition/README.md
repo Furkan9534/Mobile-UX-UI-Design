@@ -206,4 +206,25 @@ HTTP / REST Client
 
 WebSocket client (anlık analiz sonucu ve durum güncellemeleri için)
 
+### AR (AVR) Gözlük Uygulaması – Kullanılacak Teknolojiler
+AR gözlük uygulaması, mobil ve tablet uygulamaları ile aynı analiz servislerine bağlanan bir kontrol ve görselleştirme istemcisi olarak çalışacaktır.
+
+Kullanılacak temel teknolojiler
+
+Unity 3D (AR gözlük istemci uygulaması)
+
+C#
+
+OpenXR (farklı AR / XR gözlük modelleri ile uyumluluk için)
+
+Cihaz gereksinimine bağlı olarak desteklenebilecek altyapılar:
+
+ARCore
+
+ARKit
+
+
+
+
+
 UX/UI
