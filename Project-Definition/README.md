@@ -181,3 +181,5 @@ görüntü kalitesine ve ortam değişkenlerine
 bağımlı, yüksek mühendislik içeren bir yapay zeka uygulamasıdır.
 
 Bu nedenle sürecin PoC temelli ve kontrollü şekilde ilerlemesi önerilmektedir.
+
+### Mobil, Tablet ve AR (AVR) Gözlük Tabanlı Operatör Arayüzü
