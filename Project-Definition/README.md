@@ -268,3 +268,4 @@ eş zamanlı olarak aynı analiz sonucunu görüntüleyebilir ve montaj doğrula
 
 ### Proje Tamamlama
 
+UX/UI
