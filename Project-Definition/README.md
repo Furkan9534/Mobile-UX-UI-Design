@@ -265,3 +265,4 @@ AR gözlük uygulaması
 
 eş zamanlı olarak aynı analiz sonucunu görüntüleyebilir ve montaj doğrulaması yapılabilir.
 
+UX/UI
