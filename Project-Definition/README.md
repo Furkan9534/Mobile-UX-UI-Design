@@ -266,6 +266,6 @@ AR gözlük uygulaması
 eş zamanlı olarak aynı analiz sonucunu görüntüleyebilir ve montaj doğrulaması yapılabilir.
 
 
-### Proje Tamamlama
+### Proje Tamamlama Süresi
 
 UX/UI
