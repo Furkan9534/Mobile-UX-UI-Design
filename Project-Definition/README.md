@@ -279,8 +279,8 @@ tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 
 | First Header  | Second Header |Second Header |Second Header |Second Header |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 1  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
+| Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 
 
 UX/UI
