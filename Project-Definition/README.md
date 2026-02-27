@@ -268,7 +268,12 @@ eş zamanlı olarak aynı analiz sonucunu görüntüleyebilir ve montaj doğrula
 
 ### Proje Tamamlama Süresi
 
-Bu yapılan çalışma tahmini süredir. Elbette zamanlarda tolerans gösterilmesi talep edilebilir.
+Bu yapılan çalışma tahmini süredir. Elbette zamanlarda tolerans gösterilmesi talep edilebilir.Aşağıda tek tabloda,
+- yapay zekâ
+- backend
+- mobil & tablet
+- AVR (AR gözlük)
+tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 
 
 
