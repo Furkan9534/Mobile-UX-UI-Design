@@ -308,4 +308,3 @@ Mobil + Tablet + Yapay zekâ + Backend = 8 ay
 AVR (AR Gözlük) toplam süresi = 3 ay
 
 
-UX/UI
