@@ -279,7 +279,7 @@ tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 
 | Numara  | İş Paketi / Faz |Kapsam |Yapılacak işler |Süre |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
+| 1   | Saha analizi ve gereksinim çalışması  |Content Cell  |Content Cell  |Content Cell  |
 | 2   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 | 3   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 | 4   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
@@ -290,4 +290,6 @@ tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 | 9   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 | 10  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 | 11  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
+
+
 UX/UI
