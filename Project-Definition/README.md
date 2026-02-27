@@ -300,9 +300,9 @@ Mobil + Tablet + Yapay zekâ + Backend = 8 ay
 
 | Numara  | İş Paketi / Faz |Kapsam |Yapılacak işler |Süre |
 | ------------- | ------------- |------------- |------------- |------------- |
-| 13  | AVR istemci altyapısı  |Content Cell  |Content Cell  |Content Cell  |
-| 14  | AVR görselleştirme ve montaj doğrulama  |Content Cell  |Content Cell  |Content Cell  |
-| 15 | AVR entegrasyonu ve saha testleri  |Content Cell  |Content Cell  |Content Cell  |
-| 16  | Toplam |Content Cell  |Content Cell  |Content Cell  |
+| 13  | AVR istemci altyapısı  |AVR  |Unity tabanlı uygulama kurulumu, kamera erişimi, merkezi yapay zekâ servislerine bağlantı, WebSocket altyapısı, oturum eşleştirme |1 Ay |
+| 14  | AVR görselleştirme ve montaj doğrulama  |AVR  |Analiz sonuçlarının gözlükte alınması, görüntü üzerine overlay bindirme, hatalı bölgenin işaretlenmesi, doğru/yanlış montaj göstergeleri, operatör onay ekranları  |1 Ay |
+| 15 | AVR entegrasyonu ve saha testleri  |AVR  |Mobil–tablet–gözlük eş zamanlı kullanım, gecikme optimizasyonu, hizalama testleri, ergonomi ve pilot saha kullanımı  |1 Ay  |
+| 16  | Toplam |   |   |3 Ay  |
 
 UX/UI
