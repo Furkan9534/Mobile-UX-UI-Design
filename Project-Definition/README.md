@@ -283,7 +283,7 @@ tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 | 2   | Görüntü veri toplama |Yapay Zeka |Gerçek montaj hattından görüntü ve video toplama, farklı ışık ve açı senaryoları, hatalı montaj örneklerinin oluşturulması  |1 Ay  |
 | 3   | Görüntü etiketleme ve veri hazırlığı  |Yapay zekâ |Kablo, soket, bağlantı noktası etiketleme, eksik bağlantı ve yanlış montaj etiketleri, veri kalite kontrolü  |1 ay |
 | 4   | Yapay zekâ model geliştirme  |Yapay zekâ  |Kablo ve soket tespiti, bağlantı var/yok tespiti, yanlış parça / yanlış soket sınıflandırma, yanlış yön montaj tespiti, ilk doğruluk testleri  |1 Ay |
-| 5   | Yapay zekâ servis katmanı  |Yapay zekâ + Backend |Model inference servisleri, görüntü işleme pipeline’ı, model servisleştirme, çoklu istek yönetimi  |Content Cell  |
+| 5   | Yapay zekâ servis katmanı  |Yapay zekâ + Backend |Model inference servisleri, görüntü işleme pipeline’ı, model servisleştirme, çoklu istek yönetimi  |1 Ay  |
 | 6   | Backend ve merkezi sistem altyapısı  |Backend  |REST servisleri, WebSocket altyapısı, analiz başlatma servisleri, sonuç yayınlama, hata kayıt altyapısı, JWT kimlik doğrulama  |1 Ay  |
 | 7   | Mobil ve tablet uygulaması – temel  |Mobil / Tablet  |Operatör girişi, kamera ile görüntü alma, analiz başlatma, canlı analiz sonucu ekranı, hatalı bölge gösterimi, hata türü ekranları  | 1 Ay  |
 | 8   | Mobil ve tablet uygulaması – gelişmiş  |Mobil / Tablet  |Çoklu araç ve oturum yönetimi, bağlantı yönetimi, performans iyileştirme, tablet ekran uyarlamaları, kullanıcı deneyimi iyileştirme  |Kamera – yapay zekâ servisleri – backend – mobil / tablet entegrasyonu, uçtan uca testler |
