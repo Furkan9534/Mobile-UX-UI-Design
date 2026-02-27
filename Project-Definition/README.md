@@ -287,7 +287,7 @@ tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 | 6   | Backend ve merkezi sistem altyapısı  |Backend  |REST servisleri, WebSocket altyapısı, analiz başlatma servisleri, sonuç yayınlama, hata kayıt altyapısı, JWT kimlik doğrulama  |Content Cell  |
 | 7   | Mobil ve tablet uygulaması – temel  |Mobil / Tablet  |Operatör girişi, kamera ile görüntü alma, analiz başlatma, canlı analiz sonucu ekranı, hatalı bölge gösterimi, hata türü ekranları  |Content Cell  |
 | 8   | Mobil ve tablet uygulaması – gelişmiş  |Mobil / Tablet  |Çoklu araç ve oturum yönetimi, bağlantı yönetimi, performans iyileştirme, tablet ekran uyarlamaları, kullanıcı deneyimi iyileştirme  |Kamera – yapay zekâ servisleri – backend – mobil / tablet entegrasyonu, uçtan uca testler |
-| 9   | Sistem entegrasyonu  |Content Cell  |Tümü |Content Cell  |
+| 9   | Sistem entegrasyonu  |Tümü  |Kamera – yapay zekâ servisleri – backend – mobil / tablet entegrasyonu, uçtan uca testler |Content Cell  |
 | 10  | Saha testleri ve model iyileştirme |Yapay zekâ + Mobil/Tablet |Content Cell  |Content Cell  |
 | 11  | Pilot kullanım ve ürünleşmeye hazırlık  |Tümü  |Content Cell  |Content Cell  |
 
