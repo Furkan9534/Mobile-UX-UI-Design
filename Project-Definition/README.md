@@ -300,9 +300,9 @@ Mobil + Tablet + Yapay zekâ + Backend = 8 ay
 
 | Numara  | İş Paketi / Faz |Kapsam |Yapılacak işler |Süre |
 | ------------- | ------------- |------------- |------------- |------------- |
-| Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
+| 13  | AVR istemci altyapısı  |Content Cell  |Content Cell  |Content Cell  |
+| 14  | AVR görselleştirme ve montaj doğrulama  |Content Cell  |Content Cell  |Content Cell  |
+| 15 | AVR entegrasyonu ve saha testleri  |Content Cell  |Content Cell  |Content Cell  |
+| 16  | Toplam |Content Cell  |Content Cell  |Content Cell  |
 
 UX/UI
