@@ -280,7 +280,7 @@ tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 | Numara  | İş Paketi / Faz |Kapsam |Yapılacak işler |Süre |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1   | Saha analizi ve gereksinim çalışması  |Tümü  |Montaj istasyonu seçimi, kamera konum analizi, kablo / soket / parça tiplerinin belirlenmesi, hata tiplerinin tanımı, performans hedefleri, saha çalışma planı  |1 ay|
-| 2   | Görüntü veri toplama |Yapay Zeka |Content Cell  |Content Cell  |
+| 2   | Görüntü veri toplama |Yapay Zeka |Gerçek montaj hattından görüntü ve video toplama, farklı ışık ve açı senaryoları, hatalı montaj örneklerinin oluşturulması  |1 Ay  |
 | 3   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 | 4   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 | 5   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
