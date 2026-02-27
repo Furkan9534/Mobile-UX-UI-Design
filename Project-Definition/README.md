@@ -268,4 +268,10 @@ eş zamanlı olarak aynı analiz sonucunu görüntüleyebilir ve montaj doğrula
 
 ### Proje Tamamlama Süresi
 
+Bu yapılan çalışma tahmini süredir. Elbette zamanlarda tolerans gösterilmesi talep edilebilir.
+
+
+
+
+
 UX/UI
