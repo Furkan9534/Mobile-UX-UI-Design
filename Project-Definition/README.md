@@ -292,4 +292,7 @@ tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 | 11  | Pilot kullanım ve ürünleşmeye hazırlık  |Tümü  |Operatör geri bildirimleri, mobil/tablet arayüz revizyonları, güvenlik testleri, raporlama ve dokümantasyon  |1 Ay  |
 | 12  |Toplam  |   |   |8 Ay  |
 
+
+Mobil + Tablet + Yapay zekâ + Backend = 8 ay
+
 UX/UI
