@@ -266,7 +266,7 @@ AR gözlük uygulaması
 eş zamanlı olarak aynı analiz sonucunu görüntüleyebilir ve montaj doğrulaması yapılabilir.
 
 
-### Proje Tamamlama Süresi
+## Proje Tamamlama Süresi
 
 Bu yapılan çalışma tahmini süredir. Elbette zamanlarda tolerans gösterilmesi talep edilebilir.Aşağıda tek tabloda,
 - yapay zekâ
