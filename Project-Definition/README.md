@@ -288,8 +288,8 @@ tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 | 7   | Mobil ve tablet uygulaması – temel  |Mobil / Tablet  |Operatör girişi, kamera ile görüntü alma, analiz başlatma, canlı analiz sonucu ekranı, hatalı bölge gösterimi, hata türü ekranları  |Content Cell  |
 | 8   | Mobil ve tablet uygulaması – gelişmiş  |Mobil / Tablet  |Çoklu araç ve oturum yönetimi, bağlantı yönetimi, performans iyileştirme, tablet ekran uyarlamaları, kullanıcı deneyimi iyileştirme  |Kamera – yapay zekâ servisleri – backend – mobil / tablet entegrasyonu, uçtan uca testler |
 | 9   | Sistem entegrasyonu  |Tümü  |Kamera – yapay zekâ servisleri – backend – mobil / tablet entegrasyonu, uçtan uca testler |Content Cell  |
-| 10  | Saha testleri ve model iyileştirme |Yapay zekâ + Mobil/Tablet |Content Cell  |Content Cell  |
-| 11  | Pilot kullanım ve ürünleşmeye hazırlık  |Tümü  |Content Cell  |Content Cell  |
+| 10  | Saha testleri ve model iyileştirme |Yapay zekâ + Mobil/Tablet |Gerçek hatta test, yanlış pozitif azaltma, kamera kalibrasyonu, yeniden eğitim (fine-tuning)  |Content Cell  |
+| 11  | Pilot kullanım ve ürünleşmeye hazırlık  |Tümü  |Operatör geri bildirimleri, mobil/tablet arayüz revizyonları, güvenlik testleri, raporlama ve dokümantasyon  |Content Cell  |
 
 
 UX/UI
