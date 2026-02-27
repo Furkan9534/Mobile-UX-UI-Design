@@ -305,4 +305,7 @@ Mobil + Tablet + Yapay zekâ + Backend = 8 ay
 | 15 | AVR entegrasyonu ve saha testleri  |AVR  |Mobil–tablet–gözlük eş zamanlı kullanım, gecikme optimizasyonu, hizalama testleri, ergonomi ve pilot saha kullanımı  |1 Ay  |
 | 16  | Toplam |   |   |3 Ay  |
 
+AVR (AR Gözlük) toplam süresi = 3 ay
+
+
 UX/UI
