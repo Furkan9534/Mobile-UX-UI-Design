@@ -279,7 +279,7 @@ tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 
 | Numara  | İş Paketi / Faz |Kapsam |Yapılacak işler |Süre |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1   | Saha analizi ve gereksinim çalışması  |Tümü  |Montaj istasyonu seçimi, kamera konum analizi, kablo / soket / parça tiplerinin belirlenmesi, hata tiplerinin tanımı, performans hedefleri, saha çalışma planı  |Content Cell  |
+| 1   | Saha analizi ve gereksinim çalışması  |Tümü  |Montaj istasyonu seçimi, kamera konum analizi, kablo / soket / parça tiplerinin belirlenmesi, hata tiplerinin tanımı, performans hedefleri, saha çalışma planı  |1 ay|
 | 2   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 | 3   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 | 4   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
