@@ -281,8 +281,8 @@ tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1   | Saha analizi ve gereksinim çalışması  |Tümü  |Montaj istasyonu seçimi, kamera konum analizi, kablo / soket / parça tiplerinin belirlenmesi, hata tiplerinin tanımı, performans hedefleri, saha çalışma planı  |1 ay|
 | 2   | Görüntü veri toplama |Yapay Zeka |Gerçek montaj hattından görüntü ve video toplama, farklı ışık ve açı senaryoları, hatalı montaj örneklerinin oluşturulması  |1 Ay  |
-| 3   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
-| 4   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
+| 3   | Görüntü etiketleme ve veri hazırlığı  |Yapay zekâ |Kablo, soket, bağlantı noktası etiketleme, eksik bağlantı ve yanlış montaj etiketleri, veri kalite kontrolü  |1 ay |
+| 4   | Yapay zekâ model geliştirme  |Yapay zekâ  |Kablo ve soket tespiti, bağlantı var/yok tespiti, yanlış parça / yanlış soket sınıflandırma, yanlış yön montaj tespiti, ilk doğruluk testleri  |1 Ay |
 | 5   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 | 6   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 | 7   | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
