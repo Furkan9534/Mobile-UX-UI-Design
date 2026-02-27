@@ -295,4 +295,10 @@ tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 
 Mobil + Tablet + Yapay zekâ + Backend = 8 ay
 
+
+### AVR (AR Gözlük) Ek Faz – Ayrı Kalem
+
+
+
+
 UX/UI
