@@ -298,7 +298,10 @@ Mobil + Tablet + Yapay zekâ + Backend = 8 ay
 
 ### AVR (AR Gözlük) Ek Faz – Ayrı Kalem
 
-
+| First Header  | Second Header |Second Header |Second Header |Second Header |
+| ------------- | ------------- |------------- |------------- |------------- |
+| Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
+| Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 
 
 UX/UI
