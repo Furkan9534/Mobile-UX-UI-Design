@@ -287,5 +287,7 @@ tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 | 6  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 | 7  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 | 8  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
+| 8  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
+
 
 UX/UI
