@@ -290,6 +290,6 @@ tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 | 9   | Sistem entegrasyonu  |Tümü  |Kamera – yapay zekâ servisleri – backend – mobil / tablet entegrasyonu, uçtan uca testler |15 Gün |
 | 10  | Saha testleri ve model iyileştirme |Yapay zekâ + Mobil/Tablet |Gerçek hatta test, yanlış pozitif azaltma, kamera kalibrasyonu, yeniden eğitim (fine-tuning)  |15 Gün  |
 | 11  | Pilot kullanım ve ürünleşmeye hazırlık  |Tümü  |Operatör geri bildirimleri, mobil/tablet arayüz revizyonları, güvenlik testleri, raporlama ve dokümantasyon  |1 Ay  |
-
+| 12  |Toplam  |---  |------------------------------  |8 Ay  |
 
 UX/UI
