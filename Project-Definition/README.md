@@ -275,8 +275,12 @@ Bu yapılan çalışma tahmini süredir. Elbette zamanlarda tolerans gösterilme
 - AVR (AR gözlük)
 tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 
+### Proje İş Listesi ve Süre Tablosu
 
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 UX/UI
