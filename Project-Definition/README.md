@@ -284,12 +284,12 @@ tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 | 3   | Görüntü etiketleme ve veri hazırlığı  |Yapay zekâ |Kablo, soket, bağlantı noktası etiketleme, eksik bağlantı ve yanlış montaj etiketleri, veri kalite kontrolü  |1 ay |
 | 4   | Yapay zekâ model geliştirme  |Yapay zekâ  |Kablo ve soket tespiti, bağlantı var/yok tespiti, yanlış parça / yanlış soket sınıflandırma, yanlış yön montaj tespiti, ilk doğruluk testleri  |1 Ay |
 | 5   | Yapay zekâ servis katmanı  |Yapay zekâ + Backend |Model inference servisleri, görüntü işleme pipeline’ı, model servisleştirme, çoklu istek yönetimi  |Content Cell  |
-| 6   | Backend ve merkezi sistem altyapısı  |Backend  |REST servisleri, WebSocket altyapısı, analiz başlatma servisleri, sonuç yayınlama, hata kayıt altyapısı, JWT kimlik doğrulama  |Content Cell  |
-| 7   | Mobil ve tablet uygulaması – temel  |Mobil / Tablet  |Operatör girişi, kamera ile görüntü alma, analiz başlatma, canlı analiz sonucu ekranı, hatalı bölge gösterimi, hata türü ekranları  |Content Cell  |
+| 6   | Backend ve merkezi sistem altyapısı  |Backend  |REST servisleri, WebSocket altyapısı, analiz başlatma servisleri, sonuç yayınlama, hata kayıt altyapısı, JWT kimlik doğrulama  |1 Ay  |
+| 7   | Mobil ve tablet uygulaması – temel  |Mobil / Tablet  |Operatör girişi, kamera ile görüntü alma, analiz başlatma, canlı analiz sonucu ekranı, hatalı bölge gösterimi, hata türü ekranları  | 1 Ay  |
 | 8   | Mobil ve tablet uygulaması – gelişmiş  |Mobil / Tablet  |Çoklu araç ve oturum yönetimi, bağlantı yönetimi, performans iyileştirme, tablet ekran uyarlamaları, kullanıcı deneyimi iyileştirme  |Kamera – yapay zekâ servisleri – backend – mobil / tablet entegrasyonu, uçtan uca testler |
-| 9   | Sistem entegrasyonu  |Tümü  |Kamera – yapay zekâ servisleri – backend – mobil / tablet entegrasyonu, uçtan uca testler |Content Cell  |
-| 10  | Saha testleri ve model iyileştirme |Yapay zekâ + Mobil/Tablet |Gerçek hatta test, yanlış pozitif azaltma, kamera kalibrasyonu, yeniden eğitim (fine-tuning)  |Content Cell  |
-| 11  | Pilot kullanım ve ürünleşmeye hazırlık  |Tümü  |Operatör geri bildirimleri, mobil/tablet arayüz revizyonları, güvenlik testleri, raporlama ve dokümantasyon  |Content Cell  |
+| 9   | Sistem entegrasyonu  |Tümü  |Kamera – yapay zekâ servisleri – backend – mobil / tablet entegrasyonu, uçtan uca testler |15 Gün |
+| 10  | Saha testleri ve model iyileştirme |Yapay zekâ + Mobil/Tablet |Gerçek hatta test, yanlış pozitif azaltma, kamera kalibrasyonu, yeniden eğitim (fine-tuning)  |15 Gün  |
+| 11  | Pilot kullanım ve ürünleşmeye hazırlık  |Tümü  |Operatör geri bildirimleri, mobil/tablet arayüz revizyonları, güvenlik testleri, raporlama ve dokümantasyon  |1 Ay  |
 
 
 UX/UI
