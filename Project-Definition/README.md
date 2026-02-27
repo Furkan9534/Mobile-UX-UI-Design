@@ -277,7 +277,7 @@ tüm işleri birlikte ve zamanlarıyla görebileceğin net bir iş listesi var.
 
 ### Proje İş Listesi ve Süre Tablosu
 
-| Numara  | Second Header |Second Header |Second Header |Second Header |
+| Numara  | İş Paketi / Faz |Second Header |Second Header |Second Header |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
 | 2  | Content Cell  |Content Cell  |Content Cell  |Content Cell  |
